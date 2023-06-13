@@ -1,4 +1,4 @@
-<img src="images/banner-rounded.png"/>
+<img src="images/banner.png"/>
 
 ## Contact me
 [<img src="images/telegram.png" width="32"/>](https://t.me/bytepixelmelody "https://t.me/bytepixelmelody")
